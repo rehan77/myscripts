@@ -1,0 +1,1 @@
+This is a simple program to count the number of occurences for each character in a string.

@@ -1,0 +1,1 @@
+This program zips a folder's contents i.e files and/or subfolders, into comic-reader friendly '.cbz' format.
